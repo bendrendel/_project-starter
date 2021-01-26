@@ -1,3 +1,13 @@
 # Project Starter
-Boilerplate for starting new projects
-Per 50 Projects in 50 Days Udemy course
+
+## Introduction
+This project is a set of boilerplate files intended to be copied and used to quickly start new projects.  It contains a boilerplate HTML file, a basic CSS stylesheet, an empty JS file, and a basic readme file.
+
+## Technologies
+This project uses HTML, CSS, and vanilla JS.
+
+## Sources
+This is the starter project in the Udemy course *50 Projects in 50 Days* by Brad Traversy and Florin Pop.
+
+## Other
+This project was created in January 2021 by Ben Drendel.
