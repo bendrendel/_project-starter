@@ -1,7 +1,7 @@
 # Project Starter
 
 ## Introduction
-This project is a set of boilerplate files intended to be copied and used to quickly start new projects.  It contains a boilerplate HTML file, a basic CSS stylesheet, an empty JS file, and a basic readme file.
+This project is a template for quickly starting new projects.  It contains a boilerplate HTML file, a basic CSS stylesheet, an empty JS file, and a basic readme file.
 
 ## Technologies
 This project uses HTML, CSS, and vanilla JS.
